@@ -4,6 +4,7 @@
 
 Name of this C++ program [Main]
 
+/*
 Programmer: Jaime Ramirez
 
 Course: CSC119-142 Introduction to Programming Spring 2021
@@ -11,6 +12,7 @@ Course: CSC119-142 Introduction to Programming Spring 2021
 Submission Date: 4/7/2021
 
 Brief Description of this program.
+in class project
 */
 
 // Importing input/output library
